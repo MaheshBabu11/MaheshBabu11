@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic computer science and engineering student from India</h3>
 	
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic)
+  <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
 </p>
 
 
