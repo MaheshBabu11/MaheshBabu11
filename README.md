@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh </h1>
-<h3 align="center">An enthusiastic computer science and engineering student from India</h3>
+<h3 align="center">I am currently working in capgemini as a software analyst.</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
