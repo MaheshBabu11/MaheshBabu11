@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
 </p>
-<h2 align="center">
-	
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-</h2>
 <br>
 <p align ="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -31,7 +27,8 @@
 <h2 align="left">🛠 &nbsp;Languages and Tools</h2>
 
 
-
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<br>
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
