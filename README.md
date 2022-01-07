@@ -14,6 +14,18 @@
 
 - 🌱 I’m currently learning **Tensorflow, Qiskit, Scipy, etc.**
 
+- :computer: I'm currently working on Microsoft Azure.
+
+- :rocket: Always ready to collaborate for Dev Experiments.
+
+- :man_technologist: Offer service to students in developing college projects.
+- 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- 
+- :trophy: Microsoft Certified Azure Cloud Developer.
+- 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
 - 👨‍💻 All of my projects are available at [github](https://github.com/MaheshBabu11?tab=repositories)
 
 - 💬 Ask me about **Machine Learing and Deep Learning**
