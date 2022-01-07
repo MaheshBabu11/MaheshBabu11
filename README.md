@@ -4,9 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
 </p>
-<p align="center">
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-</p>
+
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 <br>
 <p align ="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
