@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh </h1>
-<h3 align="center">I am currently working in capgemini as a software analyst.</h3>
+<h3 align="center">I am currently working in Capgemini as a software analyst.</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
@@ -9,6 +9,8 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 <br>
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 - 🌱 I’m currently learning **Tensorflow, Qiskit, Scipy, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/MaheshBabu11?tab=repositories)
