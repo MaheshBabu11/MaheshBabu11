@@ -3,6 +3,7 @@
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
+  
   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 </p>
 <br>
@@ -67,6 +68,7 @@
 </a>
 </p>
 <h2 align="left">🏆 GitHub Trophies</h2>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11)](https://github.com/maheshbabu11/github-profile-trophy)
 
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
