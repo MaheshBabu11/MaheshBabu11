@@ -71,6 +71,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=onedark&column=7)](https://github.com/maheshbabu11/github-profile-trophy)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31copihchmgpfxekks4o2r7uurky&cover_image=true&theme=novatorem&bar_color=047cec&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
 
 <p>
