@@ -4,8 +4,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
 </p>
-
-
+<br>
+<p align ="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+<br>
 - 🌱 I’m currently learning **Tensorflow, Qiskit, Scipy, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/MaheshBabu11?tab=repositories)
