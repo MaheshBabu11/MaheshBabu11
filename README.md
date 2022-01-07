@@ -3,6 +3,7 @@
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
+  ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)(https://github.com/ellerbrock/open-source-badge/)
 </p>
 <br>
 <p align ="center">
@@ -27,8 +28,8 @@
 <h2 align="left">🛠 &nbsp;Languages and Tools</h2>
 
 
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<br>
+
+
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
