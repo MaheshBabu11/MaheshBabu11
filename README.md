@@ -22,7 +22,7 @@
 
 
 	
-### 🛠 &nbsp;Languages and Tools
+<h2 align="left">🛠 &nbsp;Languages and Tools</h2>
 
 
 
