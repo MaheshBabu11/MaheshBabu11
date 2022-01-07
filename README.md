@@ -69,7 +69,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=onedark)](https://github.com/maheshbabu11/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=onedark&column=7)](https://github.com/maheshbabu11/github-profile-trophy)
 
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
 
