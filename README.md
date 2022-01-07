@@ -3,7 +3,6 @@
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
-  ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)(https://github.com/ellerbrock/open-source-badge/)
 </p>
 <br>
 <p align ="center">
