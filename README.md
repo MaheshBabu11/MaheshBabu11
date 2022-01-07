@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
 </p>
+<p align="center">
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+</p>
 <br>
 <p align ="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -66,8 +68,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshBabu11&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11)](https://github.com/maheshbabu11/github-profile-trophy)
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=onedark)](https://github.com/maheshbabu11/github-profile-trophy)
 
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
 
