@@ -11,6 +11,7 @@
 <br>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🌱 I’m currently learning **Tensorflow, Qiskit, Scipy, etc.**
 - :computer: I'm currently working on Microsoft Azure.
@@ -51,7 +52,7 @@
 
 <h2 align="left">⚙️ &nbsp;GitHub Analytics</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/MaheshBabu11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaheshBabu11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaheshBabu11&layout=compact&langs_count=8&theme=algolia"/>
