@@ -76,7 +76,9 @@
 <h2 align="left"> 🤝🏻 &nbsp;Connect with Me</h2>
 
 <p>
+	
 <a href="https://www.linkedin.com/in/mahesh-babu-9aa164140/"><img src="https://img.shields.io/badge/-MaheshBabu11-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+	
 <a href="mailto:mahesh.b.pec@gmail.com"><img src="https://img.shields.io/badge/-mahesh.b.pec@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
