@@ -3,6 +3,7 @@
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaheshBabu11&color=red&style=plastic"></img>
+  <img src="https://wakatime.com/badge/github/MaheshBabu11/MaheshBabu11.svg" alt="WakaTime">
 </p>
 <br>
 <p align ="center">
