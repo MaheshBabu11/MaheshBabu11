@@ -3,7 +3,8 @@ name: Reset to Yesterday's Copy
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch:
+  workflow_dispatch: # Manually trigger workflow
+
 jobs:
   reset_repo:
     runs-on: ubuntu-latest
@@ -14,6 +15,6 @@ jobs:
 
       - name: Reset to yesterday's copy
         run: |
-          git checkout $(git rev-parse HEAD)@{yesterday}
-          git reset --hard
+          git fetch origin
+          git reset --hard origin/$(git rev-parse HEAD@{yesterday})
           git push --force
