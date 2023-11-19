@@ -19,10 +19,14 @@ jobs:
           YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
           git fetch --depth=1 origin "+refs/heads/*:refs/remotes/origin/*"
           YESTERDAY_COMMIT=$(git log --before="$YESTERDAY 00:00:00" --format="%H" -1)
-          echo "::set-output name=commit_hash::$YESTERDAY_COMMIT"
+          echo "YESTERDAY_COMMIT=$YESTERDAY_COMMIT" >> $GITHUB_ENV
 
       - name: Reset to yesterday's copy
-        if: steps.yesterday_commit.outputs.commit_hash != ''
         run: |
-          git reset --hard ${{ steps.yesterday_commit.outputs.commit_hash }}
-          git push --force
+          YESTERDAY_COMMIT=$(echo $YESTERDAY_COMMIT)
+          if [ -n "$YESTERDAY_COMMIT" ]; then
+            git reset --hard $YESTERDAY_COMMIT
+            git push --force
+          else
+            echo "Yesterday's commit not found."
+          fi
