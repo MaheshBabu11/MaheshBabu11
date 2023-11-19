@@ -5,9 +5,12 @@
 [![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+work+primarily+with+Spring+Boot)](https://git.io/typing-svg)
 </div>
 
-
-![:maheshbabu11](https://count.getloli.com/get/@:maheshbabu11)
-
+<div align ="center">
+  Visitor count 👇
+  <br>
+  <br>
+  <img src="https://count.getloli.com/get/@:maheshbabu11" alt=":maheshbabu11"/>
+</div>
 <br>
 <div align ="center">
   
