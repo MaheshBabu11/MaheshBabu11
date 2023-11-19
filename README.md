@@ -68,6 +68,16 @@
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshbabu11&theme=radical"/>
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheshbabu11&theme=radical"/>
 </div>
-          
-                   
+
+## ✍️ Latest Medium articles
+
+<div name = "medium" align ="left">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 0">
+    
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mahesh.babu11/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mahesh.babu11/1" alt="Recent Article 1"> 
+</div>
+
+## 🏆 Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=onedark)](https://github.com/maheshbabu11/github-profile-trophy)
           
