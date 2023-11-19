@@ -2,7 +2,7 @@
 
 <div align ="center">  
   
-[![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+Work+primarily+in+Spring+Boot)](https://git.io/typing-svg)
+[![Intro](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+Work+primarily+in+Spring+Boot)](https://git.io/typing-svg)
 </div>
 
 <div align ="center">
@@ -65,6 +65,14 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height=50 width=50 />
 </div>
+
+## 🎧 I am vibing to ...
+<div >
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k5rbjy6j2yk7ov746i3hbbgrgy&count=3" align="right" />
+</div>
+<br>
+
 
 ## 📊 Github Stats
 
