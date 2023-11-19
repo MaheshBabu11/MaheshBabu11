@@ -1,5 +1,7 @@
 <h2 align="center"> Hi 👋, I'm Mahesh</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+Work+primarily+in+Spring+Boot)](https://git.io/typing-svg)
+
 <!--
 **MaheshBabu11/MaheshBabu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
