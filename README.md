@@ -21,6 +21,8 @@
 
 ## 😊 About Me
 
+<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align = right height = 300 width = 400/>
+
 - 🔭 I’m currently working on  **Backend Development** with java
 - :neutral_face: I **love**  programming and tinkering with new technologies
 - 🌱 I’m currently Working with **Spring Boot, Azure**
@@ -83,4 +85,4 @@
 
 ## 🥽 3-D Contribution graph
 
-<img src = "https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
