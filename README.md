@@ -6,7 +6,7 @@
 </div>
 
 <div align ="center">
-  Visitor count 👇
+ <em> Visitor count 👇</em>
   <br>
   <br>
   <img src="https://count.getloli.com/get/@:maheshbabu11" alt=":maheshbabu11"/>
