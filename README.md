@@ -67,9 +67,9 @@
 </div>
 
 ## 🎧 I am vibing to ...
-<div >
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k5rbjy6j2yk7ov746i3hbbgrgy&count=2" align="right" />
+  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k5rbjy6j2yk7ov746i3hbbgrgy&count=2"/>
 </div>
 <br>
 
