@@ -13,9 +13,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Reset to yesterday's copy
+      - name: Find yesterday's commit
+        id: yesterday_commit
         run: |
           YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
-          git fetch origin
-          git reset --hard $(git rev-list -n 1 --before="$YESTERDAY 00:00" origin/main)
+          git fetch --depth=1 origin "+refs/heads/*:refs/remotes/origin/*"
+          YESTERDAY_COMMIT=$(git log --before="$YESTERDAY 00:00:00" --format="%H" -1)
+          echo "::set-output name=commit_hash::$YESTERDAY_COMMIT"
+
+      - name: Reset to yesterday's copy
+        if: steps.yesterday_commit.outputs.commit_hash != ''
+        run: |
+          git reset --hard ${{ steps.yesterday_commit.outputs.commit_hash }}
           git push --force
