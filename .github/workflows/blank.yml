@@ -15,6 +15,7 @@ jobs:
 
       - name: Reset to yesterday's copy
         run: |
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
           git fetch origin
-          git reset --hard origin/$(git rev-parse HEAD@{yesterday})
+          git reset --hard $(git rev-list -n 1 --before="$YESTERDAY 00:00" origin/main)
           git push --force
