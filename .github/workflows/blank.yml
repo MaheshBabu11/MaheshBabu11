@@ -1,0 +1,19 @@
+name: Reset to Yesterday's Copy
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+
+jobs:
+  reset_repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Reset to yesterday's copy
+        run: |
+          git checkout $(git rev-parse HEAD)@{yesterday}
+          git reset --hard
+          git push --force
