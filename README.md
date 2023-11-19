@@ -2,7 +2,7 @@
 
 <div align ="center">  
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+work+primarily+with+Spring+Boot)](https://git.io/typing-svg)
+[![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=I+am+a+Backend+Developer!!!;I+%E2%9D%A4%EF%B8%8F+Open+Source!!!;I+work+primarily+with+Spring+Boot)](https://git.io/typing-svg)
 </div>
 
 
@@ -59,6 +59,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" height=50 width=50/ />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height=50 width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height=50 width=50 />
+</div>
+
+## 📊 Github Stats
+
+<div name ="stats">
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maheshbabu11&theme=radical"/>
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshbabu11&theme=radical"/>
 </div>
           
                    
