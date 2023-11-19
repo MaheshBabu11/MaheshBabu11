@@ -3,7 +3,7 @@ name: Reset to Yesterday's Copy
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
-
+  workflow_dispatch:
 jobs:
   reset_repo:
     runs-on: ubuntu-latest
