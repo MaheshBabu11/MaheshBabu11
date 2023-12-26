@@ -100,10 +100,11 @@
 ## 🥽 3-D Contribution graph
 
 <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+## :octocat: Github Unwrapped 2023 (Click to see the full 🎥)
 <div align="center">
-  <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/click-here.gif" height="150" width="225">
    <a href="https://vimeo.com/897888293">
-    <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/Github%20Unwrapped%202023.gif" alt="unwrapped 2023">
+    <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/unwrapped.gif" alt="unwrapped 2023" height="500" width="400">
   </a>
 </div>
 
