@@ -101,8 +101,9 @@
 
 <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
-## Github Unwrapped
+## :octocat: Github Unwrapped (Click to open video)
 
-[![Vimeo Video Preview](https://i.vimeocdn.com/video/897888293_640.jpg)](https://vimeo.com/897888293)
-
+<a href="https://vimeo.com/897888293 align="center">
+  <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/github-unwrapped-2023-thumbnail.png" alt="unwrapped 2023" width="540" height="800">
+</a>
 
