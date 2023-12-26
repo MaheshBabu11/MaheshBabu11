@@ -103,7 +103,9 @@
 
 ## :octocat: Github Unwrapped (Click to open video)
 
-<a href="https://vimeo.com/897888293 align="center">
-  <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/github-unwrapped-2023-thumbnail.png" alt="unwrapped 2023" width="540" height="800">
-</a>
+<div align="center">
+  <a href="https://vimeo.com/897888293">
+    <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/github-unwrapped-2023-thumbnail.png" alt="unwrapped 2023" width="540" height="800">
+  </a>
+</div>
 
