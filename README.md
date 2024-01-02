@@ -88,9 +88,9 @@
 ## ✍️ Latest Medium articles
 
 <div name = "medium" align ="left">
-  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 0">
+  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">
     
-  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1" alt="Recent Article 2"> 
 </div>
 
 ## 🏆 Github Trophies
@@ -107,4 +107,7 @@
     <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/unwrapped.gif" alt="unwrapped 2023" height="500" width="400">
   </a>
 </div>
+
+
+
 
