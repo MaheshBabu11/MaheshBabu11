@@ -86,7 +86,7 @@
 </div>
 
 ## ✍️ Latest Medium articles
-
+<img src="https://medium-writer-card.vercel.app/api/medium/user/index?name=mahesh.babu11">
 <div name = "medium" align ="left">
   <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">
     
