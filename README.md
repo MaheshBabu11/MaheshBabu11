@@ -9,7 +9,7 @@
  <em> Visitor count 👇</em>
   <br>
   <br>
-  <img src="https://count.getloli.com/get/@:maheshbabu11" alt=":maheshbabu11"/>
+  <img src="http://anime-page-counter.glitch.me/get/@:maheshbabu11" alt=":maheshbabu11"/>
 </div>
 <br>
 <div align ="center">
