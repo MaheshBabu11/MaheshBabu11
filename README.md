@@ -90,8 +90,7 @@
 
 <div name = "medium" align ="left">
    <a target="_blank" href="https://medium.com/@mahesh.babu11"><img src="https://medium-writer-card.vercel.app/api/medium/user/index?name=mahesh.babu11" alt="medium user card">
-  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">
-    
+  <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">    
   <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1" alt="Recent Article 2"> 
 </div>
 
