@@ -86,10 +86,16 @@
 </div>
 
 ## ✍️ Latest Medium articles
- 
+<div align="center">
+    <a target="_blank" href="https://medium.com/@mahesh.babu11">
+        <img src="https://medium-writer-card.vercel.app/api/medium/user/index?name=mahesh.babu11" alt="medium user card">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdmN2hrNzM1bHB3ZmI1MTFwNTJxMDJzbWE0aG5wdjRyaHJ0cGZneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOZhmE42D1WrCWATLK/giphy.gif" height="300"  alt="GIF image">
+</div>
+
 
 <div name = "medium" align ="left">
-   <a target="_blank" href="https://medium.com/@mahesh.babu11"><img src="https://medium-writer-card.vercel.app/api/medium/user/index?name=mahesh.babu11" alt="medium user card">
   <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">    
   <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/1" alt="Recent Article 2"> 
 </div>
