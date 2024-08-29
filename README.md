@@ -93,7 +93,7 @@
     &nbsp;&nbsp;&nbsp;
     <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/749f.gif" height="300">
 </div>
-
+<br>
 
 <div name = "medium" align ="left">
   <a target="_blank" href="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0"><img src="https://github-readme-medium-recent-article-plugin.vercel.app/medium/@mahesh.babu11/0" alt="Recent Article 1">    
