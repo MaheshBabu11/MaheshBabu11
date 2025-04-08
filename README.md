@@ -87,9 +87,9 @@
 
 ## ✍️ Latest Medium articles
 <div align="center">
-    <a target="_blank" href="https://medium.com/@mahesh.babu11">
+<!--     <a target="_blank" href="https://medium.com/@mahesh.babu11">
         <img src="https://medium-writer-card.vercel.app/api/medium/user/index?name=mahesh.babu11" alt="medium user card">
-    </a>
+    </a> -->
     &nbsp;&nbsp;&nbsp;
     <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/749f.gif" height="300">
 </div>
