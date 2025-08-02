@@ -9,7 +9,7 @@
  <em> Visitor count 👇</em>
   <br>
   <br>
-  <img src="http://anime-page-counter.glitch.me/get/@:maheshbabu11" alt=":maheshbabu11"/>
+  <img src="https://gh-visitor-counter.maheshbabu11.dev/get/@:maheshbabu11?theme=rule34" alt=":maheshbabu11"/>
 </div>
 <br>
 <div align ="center">
