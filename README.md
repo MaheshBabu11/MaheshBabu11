@@ -42,38 +42,40 @@
 
 ## 📝 Languages
 <div align="center">
-  <img src="icons/java.svg" width="50"/>
-  <img src="icons/c.svg" width="50"/>
-  <img src="icons/cplusplus.svg" width="50"/>
-  <img src="icons/python.svg" width="50"/>
-  <img src="icons/mysql.svg" width="50"/>
-  <img src="icons/postgres.svg" width="50"/>
-  <img src="icons/oracle.svg" width="50"/>
-  <img src="icons/latex.svg" width="50"/>
+  <img src="icons/java.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/c.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/cplusplus.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/python.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/mysql.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/postgres.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/oracle.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/mssql.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/latex.svg" width="50" style="margin: 15px;"/>
 </div>
 
-## 🛠 Frameworks & Tools
+## 🛠 Frameworks & Libraries
 <div align="center">
-  <img src="icons/spring.svg" width="50"/>
-  <img src="icons/hibernate.svg" width="50"/>
-  <img src="icons/flask.svg" width="50"/>
-  <img src="icons/apache.svg" width="50"/>
-  <img src="icons/maven.svg" width="50"/>
-  <img src="icons/docker.svg" width="50"/>
-  <img src="icons/tensorflow.svg" width="50"/>
-  <img src="icons/opencv.svg" width="50"/>
-  <img src="icons/postman.svg" width="50"/>
+  <img src="icons/spring.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/hibernate.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/flask.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/apache.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/maven.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/docker.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/tensorflow.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/opencv.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/postman.svg" width="50" style="margin: 15px;"/>
 </div>
 
 ## 💻 Developer Tools & Platforms
 <div align="center">
-  <img src="icons/azure.svg" width="50"/>
-  <img src="icons/git.svg" width="50"/>
-  <img src="icons/github.svg" width="50"/>
-  <img src="icons/intellij.svg" width="50"/>
-  <img src="icons/pycharm.svg" width="50"/>
-  <img src="icons/jira.svg" width="50"/>
+  <img src="icons/azure.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/git.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/github.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/intellij.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/pycharm.svg" width="50" style="margin: 15px;"/>
+  <img src="icons/jira.svg" width="50" style="margin: 15px;"/>
 </div>
+
 
 ## 🎧 I am vibing to ...
 <div align="center">
