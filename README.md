@@ -108,6 +108,12 @@
 
 <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!--- ## :octocat: Github Unwrapped 2023 (Click to see the full 🎥)
 <div align="center">
    <a href="https://vimeo.com/897888293">
