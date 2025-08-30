@@ -25,20 +25,21 @@
   <a href="https://www.buymeacoffee.com/maheshbabu11" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 </div>
 
-## 😊 About Me
+## 😊 About Me  
 
-<img src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align = right height = 200 width = 300/>
+💻 *Backend Developer passionate about building scalable systems and sharing knowledge with the community.*  
 
-- 🔭 I’m currently working on  **Backend Development** with java
-- :neutral_face: I **love**  programming and tinkering with new technologies
-- 🌱 I’m currently Working with **Spring Boot, Azure**
-- 🎓 I’m currently learning Batch Processing ,Caching mechanisms and search optimizations
-- 💬 Ask me about anything, I am happy to help
-- ⚡ Always looking for new challenges
-- 😄 Pronouns: **He/Him** 
-- :bulb: I write occasionally on [Medium](https://medium.com/@mahesh.babu11) regarding tech and web development 🌐👨🏻‍💻
-- 🏆 Microsoft Azure Certified Developer Associate.
-- 🌐 Visit my [porfolio website](https://maheshbabu11.github.io/) for complete background and contact.
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" height="200" width="300"/>
+
+- 🔭 Currently working on **Backend Development** with **Java & Spring Boot**  
+- 🌱 Exploring **Batch Processing**, **Caching Mechanisms**, and **Search Optimization**  
+- ☁️ Skilled in **Azure Cloud** | 🏆 **Microsoft Certified: Azure Developer Associate**  
+- 💡 Passionate about **Open Source** & experimenting with **new technologies**  
+- ✍️ Sharing thoughts & tutorials on [**Medium**](https://medium.com/@mahesh.babu11)  
+- 🌐 Visit my [**Portfolio Website**](https://maheshbabu11.github.io/) for projects & background  
+- 💬 Always open to **collaboration & tech discussions**  
+- 😄 Pronouns: **He/Him**
+
 
 ## 📝 Languages
 <div align="center">
