@@ -102,7 +102,7 @@
 
 ## 🏆 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maheshbabu11&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,Experience,Followers,PullRequest,Issues)](https://github.com/maheshbabu11/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=maheshbabu11&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,Experience,Followers,PullRequest,Issues)](https://github.com/maheshbabu11/github-profile-trophy)
 
 ## 🥽 3-D Contribution graph
 
